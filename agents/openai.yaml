@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build macOS ICNS"
+  short_description: "Convert SVG or PNG artwork into verified macOS ICNS files"
+  default_prompt: "Use $build-macos-icns to convert this SVG or PNG into a validated macOS .icns file."
