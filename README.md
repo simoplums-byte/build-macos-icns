@@ -1,4 +1,4 @@
-# build-macos-icns
+# Build macOS ICNS
 
 A Codex skill for converting square SVG or PNG artwork into a verified macOS `.icns` icon and a matching 1024×1024 PNG.
 
